@@ -1,0 +1,3 @@
+com\qinjun\autotest\tsplugin\base\BaseCase.class
+com\qinjun\autotest\tsplugin\base\BaseSuite.class
+com\qinjun\autotest\tsplugin\cases\DemoCase.class

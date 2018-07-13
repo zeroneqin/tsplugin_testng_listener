@@ -1,0 +1,8 @@
+com\qinjun\autotest\tsplugin\util\HttpResponse.class
+com\qinjun\autotest\tsplugin\util\HttpUtil.class
+com\qinjun\autotest\tsplugin\annotation\DemoUrl.class
+com\qinjun\autotest\tsplugin\test\EnumResult.class
+com\qinjun\autotest\tsplugin\test\EnumResult$1.class
+com\qinjun\autotest\tsplugin\listener\DemoTestListener.class
+com\qinjun\autotest\tsplugin\listener\DemoMethodListener.class
+com\qinjun\autotest\tsplugin\annotation\DemoTestData.class
