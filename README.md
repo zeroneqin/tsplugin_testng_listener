@@ -1,7 +1,7 @@
 # TSPlugin - TestNG - Listener
 
 ## Introduction
-TSPlugin-TestNG-Listener(Test Service-Plugin-TestNGr-Listener) is a TestNG listener to add additional function to test framework like binding data file to case, pass info to case and so on.
+TSPlugin-TestNG-Listener(Test Service-Plugin-TestNG-Listener) is a TestNG listener to add additional function to test framework like binding data file to case, pass info to case and so on.
 ## Author
 Jun Qin
 ## Bug and issues
